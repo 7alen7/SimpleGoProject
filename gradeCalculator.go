@@ -1,5 +1,4 @@
-/*	CS424 Spring 2022
-	Prog_Asgn1.go
+/*
 	Dan Lenz
 	A program to take in an input file, grade weight percents, grade count, and calculate the average grades for a set of students
 
